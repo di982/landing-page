@@ -1,0 +1,37 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgba(57, 192, 64, 0.829);
+}
+a{
+    text-decoration: none;
+}
+a{
+    color:grey;
+    text-overflow: clip;
+}
+a:link{
+    color:darkgray;
+}
+a:hover{
+    color:lightblue;
+}
+a:active{
+    color:aquamarine;
+}
+h1{
+    color: rgb(121, 0, 0);
+    text-align: center;
+    font-family:sans-serif;
+}
+h3,p{
+    color: rgb(182, 99, 99);
+    text-align:left;
+    font-style: italic;
+}
+img{
+    float: left;
+    width: 50%;
+    border: 1px solid rgba(57, 192, 64, 0.829);
+    border-radius: 8px;
+    left: 50%;
+}
